@@ -7,3 +7,10 @@ tqdm
 jupyterlab
 scikit-image
 scikit-learn
+
+# Torch
+torch
+torchvision
+
+# Wavelets
+PyWavelets
