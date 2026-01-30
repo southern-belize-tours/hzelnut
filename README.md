@@ -18,15 +18,15 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-3) Start Jupyter (Optional)
-
-```bash
-jupyter lab
+3) Create (in the root directory) a *.env* file with the following contents:
+```
+SEED=42
+BAD_NUTS_DIR=data/bad_nuts
 ```
 
 4) Open the notebook
 
-- `eda1.ipynb`
+- `eda_mvtec.ipynb`
 
 ## Project structure
 
