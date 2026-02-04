@@ -1,4 +1,5 @@
 .env
-.venv
 .ipynb_checkpoints
 data
+.venv/
+.venv
